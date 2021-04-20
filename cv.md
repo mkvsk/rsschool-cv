@@ -2,6 +2,9 @@
 **Tatiana Poburinnaia**
 
 ## **Contact Info:**
+**discord:** ɴᴇꜱʜɪᴋ#5185
+
+**email:** tanysha6@me.com
 
 ## **Summary:**
 "love DataBases and web dev"
