@@ -16,7 +16,7 @@ Asm, C++, C#, MS Sql, SSMS, OpenServer, Photoshop, Exel
 [github.com/mkvsk](https://github.com/mkvsk?tab=repositories)
 
 ## **Education:** 
-
+Baltic Information College
 
 ## **English:**
 B1
